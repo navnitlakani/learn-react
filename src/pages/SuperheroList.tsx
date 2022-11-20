@@ -25,7 +25,7 @@ function ProductList(productpageProps: SuperheroProps) {
 
   return (
     <>
-      <h1>All SuperHero</h1>
+      <h1>All SuperHeros</h1>
 
       {products.map((superheroDetails: SuperHero) => {
         return (
